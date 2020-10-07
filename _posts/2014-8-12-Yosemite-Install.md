@@ -1,8 +1,6 @@
 ---
 layout: post
-title: Yosemite Install 4 minutes remaining stuck.
+title: Hi.
 ---
 
-This is second time to install OS X Yosemite (10.10) Beta and again it's stucked.
-
-![_config.yml]({{ site.baseurl }}/images/yosemite_install.jpg)
+We are Hirusta, a team specialized in software development and digital marketing. Our focus is getting the utmost in terms of performance on both sides, to assure both your product and your message is delivered the right way to the right users.
