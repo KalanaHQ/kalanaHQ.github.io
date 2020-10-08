@@ -3,9 +3,8 @@ layout: page
 title: About
 ---
 
-  ## WHAT DO WE DO?
 
-
+## WHAT DO WE DO?
 
 
 ### Web development
