@@ -35,10 +35,14 @@ If your business has the need of very specific programming, we can develop tailo
 
 
 
-### More Information
+## AN AGILE AND ADAPTIVE TEAM
 
-A place to include any other types of information that you'd like to include about yourself. 
+We help businesses of all kinds take the leap and make themselves as productive, scalable and future-proof as possible, by implementing code-based strategies. Our focus is on automation of tasks, data analysis and process optimization. Finding the perfect solution for each problem is what keeps us motivated.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:hello@kalana.dev)
+
+
+
+
