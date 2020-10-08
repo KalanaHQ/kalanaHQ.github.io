@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-Some information about you!
+  ## WHAT DO WE DO?
 
 
 
