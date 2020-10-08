@@ -38,7 +38,7 @@ If your business has the need of very specific programming, we can develop tailo
 
 We help businesses of all kinds take the leap and make themselves as productive, scalable and future-proof as possible, by implementing code-based strategies. Our focus is on automation of tasks, data analysis and process optimization. Finding the perfect solution for each problem is what keeps us motivated.
 
-### Contact me
+### Write us
 
 [hello@kalana.dev](mailto:hello@kalana.dev)
 
