@@ -43,7 +43,6 @@ We help businesses of all kinds take the leap and make themselves as productive,
 [hello@kalana.dev](mailto:hello@kalana.dev)
 
 
-[Click](posts/2020-10-08-Welcome.md)
 
 
 
