@@ -41,7 +41,7 @@ We help businesses of all kinds take the leap and make themselves as productive,
 
 ### Contact me
 
-[email@domain.com](mailto:hello@kalana.dev)
+[hello@kalana.dev](mailto:hello@kalana.dev)
 
 
 
