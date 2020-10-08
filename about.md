@@ -43,6 +43,6 @@ We help businesses of all kinds take the leap and make themselves as productive,
 [hello@kalana.dev](mailto:hello@kalana.dev)
 
 
-
+__Kalana.ai, LLC is registered at state of Delaware in United States__
 
 
