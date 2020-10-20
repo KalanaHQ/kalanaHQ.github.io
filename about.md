@@ -43,6 +43,7 @@ We help businesses of all kinds take the leap and make themselves as productive,
 [hello@kalana.dev](mailto:hello@kalana.dev)
 
 
-__*Kalana.ai, LLC is registered at state of Delaware in United States.*__ D-U-N-S® Number is: 117719262. 
+__*Kalana.ai, LLC is registered at state of Delaware in United States.*__ 
+D-U-N-S® Number is: 117719262. 
 
 
